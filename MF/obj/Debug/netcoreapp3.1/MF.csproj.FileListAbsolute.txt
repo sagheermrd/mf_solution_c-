@@ -1,0 +1,11 @@
+/Users/sagheer/Projects/MF/MF/bin/Debug/netcoreapp3.1/MF.deps.json
+/Users/sagheer/Projects/MF/MF/bin/Debug/netcoreapp3.1/MF.runtimeconfig.json
+/Users/sagheer/Projects/MF/MF/bin/Debug/netcoreapp3.1/MF.runtimeconfig.dev.json
+/Users/sagheer/Projects/MF/MF/bin/Debug/netcoreapp3.1/MF.dll
+/Users/sagheer/Projects/MF/MF/bin/Debug/netcoreapp3.1/MF.pdb
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.csproj.CoreCompileInputs.cache
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.AssemblyInfoInputs.cache
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.AssemblyInfo.cs
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.dll
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.pdb
+/Users/sagheer/Projects/MF/MF/obj/Debug/netcoreapp3.1/MF.genruntimeconfig.cache
