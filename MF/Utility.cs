@@ -11,7 +11,8 @@ namespace MF
         private const int Increment = 1;
         private const int MaxItemsToReturn = 3;
 
-        public string[] RepeatedWords(string sentence) {
+        public string[] RepeatedWords(string sentence)
+        {
 
             if (string.IsNullOrEmpty(sentence))
                 return Array.Empty<string>();
@@ -24,7 +25,7 @@ namespace MF
             {
                 if (wordsArray[index] == string.Empty)
                     continue;
-    
+
                 if (repeatedWords.ContainsKey(wordsArray[index]))
                 {
                     var wordCount = repeatedWords[wordsArray[index]];
